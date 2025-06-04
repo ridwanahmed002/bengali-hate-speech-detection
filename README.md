@@ -74,7 +74,7 @@ bengali-hate-speech-detection/
 # Python 3.8+ required
 pip install torch transformers datasets scikit-learn pandas numpy matplotlib seaborn accelerate
 ```
-### Installation  https://github.com/ridwanahmed002/bengali-hate-speech-detection
+### Installation  
 ```bash
 git clone https://github.com/ridwanahmed002/bengali-hate-speech-detection.git  # Clone the repository
 cd bengali-hate-speech-detection
